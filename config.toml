@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-universal-theme"
 
-#
+
 [menu]
 
 # Main menu
@@ -33,7 +33,6 @@ theme = "hugo-universal-theme"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 
-#see more
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
